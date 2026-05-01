@@ -1,5 +1,3 @@
-<img width="516" height="497" alt="Ekran görüntüsü 2026-05-01 223149" src="https://github.com/user-attachments/assets/0d757095-217c-4871-a8dd-2918cc347591" />
-<img width="540" height="504" alt="Ekran görüntüsü 2026-05-01 223511" src="https://github.com/user-attachments/assets/5fa481ed-d8ea-4b8e-85b2-fc1c11f32349" />
 # 🔔 DnDNotifier (Vencord Plugin)
 
 [TR] Discord'da "Rahatsız Etmeyin" (DND) modundayken gelen doğrudan mesajlar (DM) için özel sesli bildirimler almanızı sağlayan gelişmiş bir Vencord eklentisidir.
@@ -22,6 +20,10 @@
 - **Sound Source:** Upload your own audio files from your computer or use a direct MP3/WAV URL.
 - **Volume Control:** Integrated slider to adjust the notification volume to your preference.
 - **Quick Test:** A dedicated button to test your sound instantly within the settings panel.
+
+<img width="526" height="704" alt="Ekran görüntüsü 2026-05-01 230623" src="https://github.com/user-attachments/assets/66278f90-60aa-4f47-9655-dfb85a631352" />
+<img width="523" height="704" alt="Ekran görüntüsü 2026-05-01 230545" src="https://github.com/user-attachments/assets/3f51f2ff-7276-4a74-a917-56b4a90bee0a" />
+
 - **Smart Filtering:** Prevents unnecessary triggers for your own messages or guild (server) messages.
 
 ---
