@@ -42,12 +42,7 @@
 
 ---
 
-## 📸 Ekran Görüntüleri / Screenshots
 
-| Settings Panel (EN) | Ayarlar Paneli (TR) |
-|---------------------|---------------------|
-| ![Settings EN](https://hizliresim.com/2bagz5v) 
-| ![Settings TR](https://hizliresim.com/gegbm9d) |
 
 ---
 
